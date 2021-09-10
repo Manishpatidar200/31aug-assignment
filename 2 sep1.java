@@ -1,3 +1,5 @@
+//1. Create an array with five scores out of 100, compute the average of the scores and compute percentage.
+
 import java.util.*;
 class Main
 {
