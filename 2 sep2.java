@@ -1,3 +1,9 @@
+/*4. Create an array of type int with 10 elements.
+ 
+  int array[]={8,2,3,1,6,5,7};
+
+Sort the array in descending order.*/
+
 class Main 
 {
     public static void main(String gg[])
