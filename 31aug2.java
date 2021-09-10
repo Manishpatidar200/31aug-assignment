@@ -1,3 +1,5 @@
+//Write a code to check if given number is armstrong number or not.
+
 import java.util.*;
 
 class Solution
