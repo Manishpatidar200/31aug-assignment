@@ -1,3 +1,5 @@
+//From an array find 3rd highest value.
+
 import java.util.*;
 class Main
 {
