@@ -1,3 +1,5 @@
+//Write a code to reverse a number.
+
 import java.util.*;
 class Solution
 {
